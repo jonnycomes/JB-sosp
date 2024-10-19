@@ -17,4 +17,4 @@ The directory [data](data/) holds all data that has been generated. It currently
 
 ### Notes
 
-Some (rough) notes can be found here: [sosp.pdf]
+Some (rough) notes can be found here: [sosp.pdf](notes/sosp.pdf)
