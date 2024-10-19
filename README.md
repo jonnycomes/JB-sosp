@@ -7,8 +7,9 @@ Using python to generate data in search of a defining relation for Jellyfish (ak
 ### Python
 
 There are currently two python scripts for calculating the jellyfish action:
-	* Comes' code: [sosp.py](src/sosp.py)
-	* Ethan's code: [jellyfish.py](src/jellyfish.py)
+
+* Comes' code: [sosp.py](src/sosp.py)
+* Ethan's code: [jellyfish.py](src/jellyfish.py)
 
 ### Data
 
