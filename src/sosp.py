@@ -74,6 +74,11 @@ class SignedSuperList(list):
 		return nf
 
 def E(j, k, sslist):
+	'''
+	Applies the operator E_{i,j} to a SignedSuperList.
+	The terms of the resulting sum are stored in a list of SignedSuperLists. 
+	Returns the resulting list of SignedSuperLists.
+	'''
 	out_sslists = []
 	sgn = 1
 	for i, state in enumerate(sslist):
@@ -329,6 +334,8 @@ def generate_rref(m, n, countdown=True):
 
 	return mtx, nfs
 		
+
+
 
 if __name__ == '__main__':
 
